@@ -15,3 +15,5 @@ Contest 1.
 
 Метрика качества.  
 В качесте метрики качества используется метрика F1-score.   
+
+Ссылки для скачивания датасетов https://drive.google.com/drive/folders/1SF-7xwqtd0yWVyxiS9hCfTIApqzuX1_U?usp=sharing
